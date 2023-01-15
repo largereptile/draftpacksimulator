@@ -1,0 +1,23 @@
+{
+  "name": "mtgpackopensimulator",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "mtgsdk": "^1.0.0",
+    "pinia": "^2.0.21",
+    "vue": "^3.2.45",
+    "vuetify": "^3.0.1"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.0.96",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.0.0",
+    "vuetify": "^3.0.1"
+  }
+}
